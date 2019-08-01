@@ -12,6 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "gun": "^0.2019.726",
+    "idb-keyval": "^3.2.0",
     "webpack": "^4.39.0",
     "webpack-cli": "^3.3.6"
   }
